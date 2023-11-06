@@ -3,14 +3,15 @@ Welcome to the MERN Social Media App repository! This project is a full-fledged 
 
 ->Features
 
-•	This social media app boasts a rich set of functionalities, including
-•	User Authentication: Users can register, log in, and securely authenticate their accounts.
-•	Post Sharing: Share images and content with your network, complete with descriptions and tags.
-•	Likes & Comments: Engage with other users' posts through likes and comments.
-•	Follow & Unfollow: Build and manage your network by following and unfollowing other users.
-•	In-App Messaging: Stay connected with friends through real-time chat functionality within the app.
-•	User Profiles: View and edit your user profile with a personalized bio and profile picture.
-•	Trending Searches: Explore trending hashtags and search for specific posts or users.
+1.	This social media app boasts a rich set of functionalities, including:
+2.	User Authentication: Users can register, log in, and securely authenticate their accounts.
+3.	Post Sharing: Share images and content with your network, complete with descriptions and tags.
+4.	Likes & Comments: Engage with other users' posts through likes and comments.
+5.	Follow & Unfollow: Build and manage your network by following and unfollowing other users.
+6.	In-App Messaging: Stay connected with friends through real-time chat functionality within the app.
+7.	User Profiles: View and edit your user profile with a personalized bio and profile picture.
+8.	Trending Searches: Explore trending hashtags and search for specific posts or users.
+
 
 With these features, our MERN Social Media App offers a comprehensive social media experience that allows users to connect, share, and interact with their friends and the broader online community.
 
