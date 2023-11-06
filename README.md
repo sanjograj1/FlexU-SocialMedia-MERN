@@ -2,8 +2,10 @@
 Welcome to the MERN Social Media App repository! This project is a full-fledged social media platform developed using the MERN stack (MongoDB, Express.js, React, and Node.js). It encompasses a wide range of features that you'd expect from a typical social media application, including user authentication, image sharing, comments, likes, follows, in-app messaging, user profiles, trending searches, and much more.
 
 ->Features
-•	This social media app boasts a rich set of functionalities, including:
+•	This social media app boasts a rich set of functionalities, including
+
 •	User Authentication: Users can register, log in, and securely authenticate their accounts.
+
 •	Post Sharing: Share images and content with your network, complete with descriptions and tags.
 •	Likes & Comments: Engage with other users' posts through likes and comments.
 •	Follow & Unfollow: Build and manage your network by following and unfollowing other users.
