@@ -1,5 +1,5 @@
 # SocialMediaMERNSTACK
-Welcome to the MERN Social Media App repository! This project is a full-fledged social media platform developed using the MERN stack (MongoDB, Express.js, React, and Node.js). It encompasses a wide range of features that you'd expect from a typical social media application, including user authentication, image sharing, comments, likes, follows, in-app messaging, user profiles, trending searches, and much more.
+Welcome to the FLEX-U! This project is a full-fledged social media platform developed using the MERN stack (MongoDB, Express.js, React, and Node.js). It encompasses a wide range of features that you'd expect from a typical social media application, including user authentication, image sharing, comments, likes, follows, in-app messaging, user profiles, trending searches, and much more.
 
 ->Features
 
@@ -13,7 +13,7 @@ Welcome to the MERN Social Media App repository! This project is a full-fledged 
 8.	Trending Searches: Explore trending hashtags and search for specific posts or users.
 
 
-With these features, our MERN Social Media App offers a comprehensive social media experience that allows users to connect, share, and interact with their friends and the broader online community.
+With these features, FLEX-U offers a comprehensive social media experience that allows users to connect, share, and interact with their friends and the broader online community.
 
 ->Getting Started
 1.	To get started with the app, follow these steps:
